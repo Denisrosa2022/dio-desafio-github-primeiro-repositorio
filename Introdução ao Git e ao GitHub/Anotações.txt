@@ -1,0 +1,49 @@
+Link para donwload do GIT: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git. 
+
+DIR -- LISTA O DIRETORIO CORRENTE
+cd -- NAVEGA ENTRE DIRETÓRIOS
+cd .. -- volta uma pasta
+CLS -- limpa o terminal windows
+tab -- autocomplentar
+mkdir -- cria uma pasta
+echo hello > hello.txt  -- cria um arquivo dentro da pasta
+rmdir workspace /s /q  -- REMOVER DIRETORIO
+
+
+
+
+LINUX 
+
+ls --LISTA O DIRETORIO CORRENTE
+cd -- NAVEGA ENTRE DIRETÓRIOS
+cd .. -- volta uma pasta
+clear ou CRTL+L -- limpa o terminal windows
+tab -- autocomplentar
+mkdir -- cria uma pasta
+echo hello > hello.txt  -- cria um arquivo dentro da pasta
+RM -RF  -- REMOVER DIRETORIO
+cat -- exibe o conteudo do arquido
+pwd -- exibe o diretorio corrente
+ls -a - exibe arquivos ocultos
+
+
+
+
+3 tipos basicos de objetos
+
+BLOBS  -- BOLHAS -- ARMAZENA SOMENTE O SHA1
+TREES -- ARMAZENA OS BLOBS OU OUTRAS ARVORES
+COMMITS -- JUNTA TUDO, APONTA PARA UMA ARVORE, PARENTE, AUTOR, MENSAGEM
+
+
+chave SSH
+Foma segura de conectar maquina local para outra maquina/servidor
+
+________________________________________________________________________
+git init
+git add
+git commit
+
+Criando um repositório
+
